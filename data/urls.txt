@@ -1,0 +1,99 @@
+# Ссылки на карточки закупок. Собрано tools/search_eis.py
+# Запуск: python tools/fetch_docs.py --urls data/urls.txt --only-smeta
+
+# капитальный ремонт здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0152300011926001171
+# капитальный ремонт кровли
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0335100006526000088
+# ремонт фасада здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0311200029126000053
+# капитальный ремонт системы отопления
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0843500000226004079
+# благоустройство территории
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0381500000126000084
+# строительство здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0173200001426001472
+# капитальный ремонт помещений
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0373200018826000561
+# ремонт спортивного зала
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0372200230126000014
+# капитальный ремонт здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0162300005326001566
+# капитальный ремонт кровли
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0348100099026000015
+# ремонт фасада здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0873500002326000485
+# капитальный ремонт системы отопления
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0172200002526000333
+# благоустройство территории
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0851300000126000261
+# строительство здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0372100009926000079
+# капитальный ремонт помещений
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0373200018826000555
+# ремонт спортивного зала
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0869600056226000345
+# капитальный ремонт здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0148200005426000342
+# капитальный ремонт кровли
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0811600002326000142
+# ремонт фасада здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0373100086926000475
+# капитальный ремонт системы отопления
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0358300038626000023
+# благоустройство территории
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0133200001726002346
+# строительство здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0836200001826000077
+# капитальный ремонт помещений
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0320100008826000010
+# ремонт спортивного зала
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0862300027026000077
+# капитальный ремонт здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0366200035626005136
+# капитальный ремонт кровли
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0119200000126013726
+# ремонт фасада здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0335200014926002621
+# капитальный ремонт системы отопления
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0338300003326000099
+# благоустройство территории
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0848300048426000341
+# строительство здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0119300019626000290
+# капитальный ремонт помещений
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0145200000426001219
+# ремонт спортивного зала
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0370500001426000002
+# капитальный ремонт здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0133200001726002164
+# капитальный ремонт кровли
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0162300000826000337
+# ремонт фасада здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0373200000626000325
+# капитальный ремонт системы отопления
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0119300012126000011
+# благоустройство территории
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0187300013726000189
+# строительство здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0123300007926000310
+# капитальный ремонт помещений
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0335200014926002746
+# ремонт спортивного зала
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0373100062726000003
+# капитальный ремонт здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0356500001426006731
+# капитальный ремонт кровли
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0361200015026003461
+# ремонт фасада здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0147600000826000015
+# капитальный ремонт системы отопления
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0332100022726000505
+# благоустройство территории
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0573500000126000186
+# строительство здания
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0873500001426000031
+# капитальный ремонт помещений
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0843500000226004404
+# ремонт спортивного зала
+https://zakupki.gov.ru/epz/order/notice/ea44/view/documents.html?regNumber=0339100008826000019

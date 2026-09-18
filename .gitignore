@@ -1,0 +1,22 @@
+# Виртуальное окружение не переносится между машинами: внутри абсолютные пути.
+# На новой машине: python -m venv .venv && pip install -r requirements.txt
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Временные файлы Excel
+~$*.xlsx
+~$*.docx
+
+# Личные рабочие материалы в корне — в репозитории им не место
+/*.docx
+/*.md
+!/README.md
+site/
+data/reports/web_data.json
+
+# Настройки IDE
+.idea/

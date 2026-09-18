@@ -1,0 +1,72 @@
+[
+  {
+    "file": "smeta_01_zemlyanye.xlsx",
+    "row": 17,
+    "code": "ФЕР01-01-013-02",
+    "rule": "price_above_median",
+    "note": "цена завышена относительно корпуса"
+  },
+  {
+    "file": "smeta_01_zemlyanye.xlsx",
+    "row": 24,
+    "code": "ФЕР01-01-030-01",
+    "rule": "duplicate",
+    "note": "позиция уже посчитана в этой смете"
+  },
+  {
+    "file": "smeta_01_zemlyanye.xlsx",
+    "row": 31,
+    "code": "ФССЦ-204-0025",
+    "rule": "coef_on_materials",
+    "note": "повышающий коэффициент на материальную позицию"
+  },
+  {
+    "file": "smeta_02_karkas.xlsx",
+    "row": 19,
+    "code": "НР",
+    "rule": "overhead_out_of_range",
+    "note": "НР 132% при нормативе 105% для вида работ"
+  },
+  {
+    "file": "smeta_02_karkas.xlsx",
+    "row": 33,
+    "code": "Прайс поставщика",
+    "rule": "market_price",
+    "note": "позиция по прайсу без обоснования расценкой"
+  },
+  {
+    "file": "smeta_03_krovlya.xlsx",
+    "row": 18,
+    "code": "ФЕР12-01-002-09",
+    "rule": "arithmetic",
+    "note": "сумма не равна объём умножить на цену и коэффициенты"
+  },
+  {
+    "file": "smeta_03_krovlya.xlsx",
+    "row": 33,
+    "code": "ФЕР11-01-011-01",
+    "rule": "duplicate",
+    "note": "позиция уже посчитана в этой смете"
+  },
+  {
+    "file": "smeta_04_otdelka.xlsx",
+    "row": 15,
+    "code": "НР",
+    "rule": "overhead_out_of_range",
+    "note": "НР 147% при нормативе 105% для вида работ"
+  },
+  {
+    "file": "smeta_04_otdelka.xlsx",
+    "row": 32,
+    "code": "ФЕР01-01-030-01",
+    "rule": "round_volume",
+    "note": "объём подозрительно круглый"
+  },
+  {
+    "file": "smeta_06_podzemnaya.xlsx",
+    "row": 21,
+    "code": "ФЕР06-01-041-02",
+    "rule": "arithmetic",
+    "note": "сумма не равна объём умножить на цену и коэффициенты"
+  }
+]
